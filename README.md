@@ -3,4 +3,3 @@ Implementing a real-time traffic sign recognition system using Convolutional Neu
 Their ability to automatically learn hierarchical features from images makes them well-suited for tasks like traffic sign recognition
 Real-time traffic sign recognition includes challenges such as speed,accuracy,robustness.
 CNNs are highly relevant in traffic sign recognition tasks due to their capability to automatically learn discriminative features from images, minimizing errors in detection
-![Uploading image.png…]()
